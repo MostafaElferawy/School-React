@@ -1,0 +1,28 @@
+.img{
+    width:2.5em;
+    height:2em;
+}
+
+.OffcanvasList{
+    background-color: rgb(52, 52, 245);
+    color: white;
+    padding:0;
+}
+.nav{
+    padding:0;
+    margin:0;
+}
+.lists{
+    width:100%;
+}
+.lists:hover{
+background-color: rgba(243, 29, 29, 0.685);
+color: white;
+padding:10px;
+}
+.logo{
+    width:80%;
+    height:10%;
+    margin:0.3em;
+    background-color:gray;
+}
